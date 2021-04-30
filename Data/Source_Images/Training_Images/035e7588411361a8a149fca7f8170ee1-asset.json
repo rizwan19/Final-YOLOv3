@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "035e7588411361a8a149fca7f8170ee1",
+        "name": "test4.png",
+        "path": "file:D:/TrainYourOwnYOLO-master/Data/Source_Images/test4.png",
+        "size": {
+            "width": 2160,
+            "height": 1440
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "1Rrjrppi1",
+            "type": "RECTANGLE",
+            "tags": [
+                "Speed limit"
+            ],
+            "boundingBox": {
+                "height": 375.03685503685506,
+                "width": 347.0163934426229,
+                "left": 872.8524590163935,
+                "top": 114.40724815724816
+            },
+            "points": [
+                {
+                    "x": 872.8524590163935,
+                    "y": 114.40724815724816
+                },
+                {
+                    "x": 1219.8688524590164,
+                    "y": 114.40724815724816
+                },
+                {
+                    "x": 1219.8688524590164,
+                    "y": 489.4441031941032
+                },
+                {
+                    "x": 872.8524590163935,
+                    "y": 489.4441031941032
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

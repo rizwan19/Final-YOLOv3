@@ -1,0 +1,105 @@
+{
+    "name": "testfinal",
+    "securityToken": "testfinal Token",
+    "sourceConnection": {
+        "name": "testfinal",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiNDUxNTU1NjEwYjU4YzI0NGU3NDNiYTkwZjk5ZDUxODk4NGIwZGViMTc2Zjk3OTM5YjdiYzY2NzUzZGZmMjcyMmNlYmI2Yjg2Yzk3NTIxMGRiMDI0MjdlMzFiMmQ2MzExYzE0MTczZDJhNjQ5MDZiZmVkNTgwODc5NmRjYjcyYzdlMGYwYjFiMTYwMjY4NjBlMTlkZTZjN2MzM2QxMTE3MyIsIml2IjoiNjkzYWU5NDJjY2ZiNDhiNWFmNjAxNWU2M2NmNDIxNWVhZmIwNzA2ZDY5NTMyY2NkIn0="
+        },
+        "id": "EzGuO2VmC"
+    },
+    "targetConnection": {
+        "name": "testfinal",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiZmE3YWE2NjEyMzM0YWY3NzQ4Y2YwOTlkMmQ3OWJjNTQ2MGE0MjYxZmM2MzE2MDU5YTY2OTk0ZWY2NmY5ODlkZmY3OTg0Y2UyNzY2ZTNkMWNlYjllOTcyY2FlYWUxNTNiNzY3NDFiMTRmNjAxNGFhYzU4MjkzZmE1YWQwZWZiYTNlNjEzYWJlMjk4YTM2NzYxMjEyMGI5NDg5OGE1NzhmMGYxZjY4NzJlYWJkNmJiNmZiMjc0YTVjOWFhOTUzMzc0IiwiaXYiOiJjZGE3YTFjY2NkZjkwZWI2NmZjZWZlZTUzMTcxNjg4NzYzZThkMmUzM2IyYjAwMTkifQ=="
+        },
+        "id": "TSf9pCaTD"
+    },
+    "videoSettings": {
+        "frameExtractionRate": 15
+    },
+    "tags": [
+        {
+            "name": "Speed limit",
+            "color": "#5db300"
+        }
+    ],
+    "id": "0ZTur2f9Z",
+    "activeLearningSettings": {
+        "autoDetect": false,
+        "predictTag": true,
+        "modelPathType": "coco"
+    },
+    "exportFormat": {
+        "providerType": "csv",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiZjYwYzFiYjViNDA3YzE2NGJlNjVmMGU4MDY1YmI0YzgxNDI4ODc0MzAwM2EyOTdhMjE4YzI2Yzk2MmNkMWQ3ZTdmZmJkNDJlNGY5YWQ4NGVkODU0NWZjNGViNjFmODc4IiwiaXYiOiI5YTM2MDc0MDM1ODQyYTlhZDM0YmU5OWNjNGM2ODRkNzcwOWQ5YTVmNGVhNWIzYzUifQ=="
+        }
+    },
+    "version": "2.2.0",
+    "lastVisitedAssetId": "06544393f13b88d647ce7d725596d8df",
+    "assets": {
+        "d6a6602afc0d1537c3bce00542fe381d": {
+            "format": "png",
+            "id": "d6a6602afc0d1537c3bce00542fe381d",
+            "name": "test1.png",
+            "path": "file:D:/TrainYourOwnYOLO-master/Data/Source_Images/test1.png",
+            "size": {
+                "width": 2160,
+                "height": 1440
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5e6981fcfb74bd9bd7463a4fbb4d6ac0": {
+            "format": "png",
+            "id": "5e6981fcfb74bd9bd7463a4fbb4d6ac0",
+            "name": "test2.png",
+            "path": "file:D:/TrainYourOwnYOLO-master/Data/Source_Images/test2.png",
+            "size": {
+                "width": 1366,
+                "height": 600
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6fe478a9f9aa4b2358aa984cc265daf4": {
+            "format": "png",
+            "id": "6fe478a9f9aa4b2358aa984cc265daf4",
+            "name": "test3.png",
+            "path": "file:D:/TrainYourOwnYOLO-master/Data/Source_Images/test3.png",
+            "size": {
+                "width": 1366,
+                "height": 601
+            },
+            "state": 2,
+            "type": 1
+        },
+        "035e7588411361a8a149fca7f8170ee1": {
+            "format": "png",
+            "id": "035e7588411361a8a149fca7f8170ee1",
+            "name": "test4.png",
+            "path": "file:D:/TrainYourOwnYOLO-master/Data/Source_Images/test4.png",
+            "size": {
+                "width": 2160,
+                "height": 1440
+            },
+            "state": 2,
+            "type": 1
+        },
+        "06544393f13b88d647ce7d725596d8df": {
+            "format": "png",
+            "id": "06544393f13b88d647ce7d725596d8df",
+            "name": "test5.png",
+            "path": "file:D:/TrainYourOwnYOLO-master/Data/Source_Images/test5.png",
+            "size": {
+                "width": 1365,
+                "height": 610
+            },
+            "state": 2,
+            "type": 1
+        }
+    }
+}

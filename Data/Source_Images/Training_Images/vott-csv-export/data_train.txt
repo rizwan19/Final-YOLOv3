@@ -1,0 +1,5 @@
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/test5.png 730,162,782,234,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/test3.png 736,202,791,269,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/test2.png 753,168,833,268,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/test4.png 872,114,1219,489,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/test1.png 1662,215,1951,586,0
